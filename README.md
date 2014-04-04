@@ -1,14 +1,5 @@
 # Braintree Python Integration Examples
 
-This project contains examples of integrating with the [Braintree](http://www.braintreepaymentsolutions.com)
-payment gateway using the [Braintree Python Library](http://www.braintreepaymentsolutions.com/gateway/python).
+This repo has moved to [braintree_python_guide](https://github.com/braintree/braintree_python_guide).  
 
-## tr_checkout
-
-A webapp example of creating one time transactions using the Braintree transparent redirect API.
-See tr_checkout/README.md for more information.
-
-## tr_checkout_app_engine
-
-A webapp example of creating one time transactions using the Braintree transparent redirect API.
-Designed for Google App Engine. See tr_checkout_app_engine/README.md for more information.
+Or, check out our full Python guide [here](https://www.braintreepayments.com/docs/python/guide/overview).  
